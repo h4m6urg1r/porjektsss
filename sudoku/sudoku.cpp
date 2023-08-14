@@ -2,7 +2,7 @@
 
 #define ROW 9
 #define COL 9
-
+//eat shit
 int display(int mat[ROW][COL]);
 
 int main() {
